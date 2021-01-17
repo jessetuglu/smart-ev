@@ -1,0 +1,17 @@
+/* Device Registration Form */
+.form__wrapper {
+	width: 50%;
+	text-align: center;
+	justify-content: center;
+	margin-top: 20px;
+}
+form {
+	color: white;
+}
+.add_device_button {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.action_wrapper {
+	margin-top: 20px;
+}

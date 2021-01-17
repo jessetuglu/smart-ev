@@ -1,0 +1,25 @@
+[
+	{
+		"deviceName": "Garage",
+		"deviceType": "Utility machine",
+		"deviceStatus": "active",
+		"deviceId": "garage33335",
+		"deviceIp": "192.168.1.123",
+		"actions": [
+			{
+				"actionName": "open",
+				"actionMethod": "POST",
+				"actionEndpoint": "https://mygarage.com/open",
+				"actiondParams": {},
+				"actionAuth": {}
+			},
+			{
+				"actionName": "close",
+				"actionMethod": "POST",
+				"actionEndpoint": "https://mygarage.com/close",
+				"actiondParams": {},
+				"actionAuth": {}
+			}
+		]
+	}
+]

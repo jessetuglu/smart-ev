@@ -1,0 +1,29 @@
+.navbar-brand {
+	font-family: 'Garamond';
+	text-decoration: none;
+	color: black;
+}
+.navbar {
+	background-color: white;
+	color: black;
+}
+body {
+	background-color: rgb(18, 28, 64);
+}
+.device__info {
+	border-radius: 25px;
+	color: black;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 25px;
+	background-color: white;
+}
+p {
+	text-align: center;
+}
+.devices__button {
+	margin-top: 40px;
+}
+.device__info__panel {
+	justify-content: center;
+}

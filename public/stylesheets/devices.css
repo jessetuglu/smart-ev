@@ -1,0 +1,24 @@
+.device_list {
+	color: white;
+	text-align: center;
+}
+.device_type {
+	font-size: 20px;
+}
+.device_name {
+	font-size: 30px;
+}
+.active_status {
+	color: green;
+}
+.inactive_status {
+	color: red;
+}
+.device_wrapper {
+	margin-top: 20px;
+	width: 20%;
+}
+.action_form_segment {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
