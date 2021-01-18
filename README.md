@@ -26,7 +26,7 @@
 
 # Versin History
 
-- v1.0.0
+- @v1.0.0
   - initial setup with localfile db
   - simple registration and action func
   - basic ui
