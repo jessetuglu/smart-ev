@@ -1,3 +1,10 @@
+# Installation and Setup
+
+1. Install node modules
+2. Add a file named `devices.json` containing an empty list `[]` to the db folder.
+3. Run node server on port 3000
+4. Locate your device's local IP, and you can connect to the server from any device on the network via: `http://{your_local_ip}:3000`
+
 # Registering a Device
 
 1. Specify the name in the `name` field
@@ -17,14 +24,7 @@
 1. Selecting from the list of actions of a device, you can simply click on one and have it execute.
 2. Check logs for any errors
 
-# Installation and Setup
-
-1. Install node modules
-2. Add a file named `devices.json` containing an empty list `[]` to the db folder.
-3. Run node server on port 3000
-4. Locate your device's local IP, and you can connect to the server from any device on the network via: `http://{your_local_ip}:3000`
-
-# Versin History
+# Version History
 
 - @v1.0.0
   - initial setup with localfile db
