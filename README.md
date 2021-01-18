@@ -23,3 +23,10 @@
 2. Add a file named `devices.json` containing an empty list `[]` to the db folder.
 3. Run node server on port 3000
 4. Locate your device's local IP, and you can connect to the server from any device on the network via: `http://{your_local_ip}:3000`
+
+# Versin History
+
+- v1.0.0
+  - initial setup with localfile db
+  - simple registration and action func
+  - basic ui
